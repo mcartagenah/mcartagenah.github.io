@@ -30,7 +30,6 @@ theme: minima
 permalink: /blog/:year/:month/:day/:title
 plugins:
   - jekyll-feed
-gems:
   - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
