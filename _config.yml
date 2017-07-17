@@ -28,7 +28,7 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 permalink: /blog/:year/:month/:day/:title
-plugins:
+plugins_dir:
   - jekyll-feed
   - jekyll-sitemap
 # Exclude from processing.
