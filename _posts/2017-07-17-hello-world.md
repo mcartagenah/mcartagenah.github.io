@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Manuel Cartagena's Hello World"
-date: 2017-07-17
+title:  "Hello world"
+categories: first
 ---
 
-Hello World!
+Finally made my own site, hope to add useful stuff in the future...
