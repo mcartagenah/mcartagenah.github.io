@@ -199,7 +199,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
-  minima (~> 2.0)
 
 BUNDLED WITH
-   1.15.2
+   1.15.3
